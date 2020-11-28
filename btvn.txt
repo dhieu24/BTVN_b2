@@ -1,0 +1,8 @@
+ES6 giới thiệu câu lệnh import và export hỗ trợ lập trình viên có thể quản lý code theo từng mô-đun.
+Mô-đun là một phương pháp lập trình mà trong đó các đoạn code liên quan được tách ra các phần khác nhau (hay còn gọi là mô-đun). Trước ES6 một số thư viện JavaScript hỗ trợ các cách viết code khác nhau để hỗ trợ quản lý các mô-đun (module). 
+Ví dụ Node.js hỗ trợ sử dụng require() và module.exports().
+
+Tại sao phải dùng module?
+- Khả năng duy trì
+- Namespacing
+- Khả năng tái sử dụng
